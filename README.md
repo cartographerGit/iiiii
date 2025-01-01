@@ -16,18 +16,7 @@ Roses are <span style="color:red; font-family:Curlz MT; font-size:4em;">red.</sp
 
 # Title <br/> byline
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
+<style> table { border-collapse: collapse; } table, th, td { border: none; } blockquote { border-left: none; padding-left: 10px; } </style>
 
 | Syntax      | Description |
 | ----------- | ----------- |
