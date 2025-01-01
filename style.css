@@ -6,7 +6,7 @@
        url("css/fonts/some-font.svg#filename") format("svg");
 }
 h1 {
-  font-family: 'Some font', Comic Sans MS;
+  font-family: 'Some font', Comic Sans MS, sans-serif;
   font-weight:normal;
   font-style:normal;
 }
