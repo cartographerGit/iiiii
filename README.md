@@ -7,4 +7,4 @@ _источник_
 
 ##
 ![hhh](./f.png)
-[dd](chapter 1/README.md)
+[dd](chapter-1/README.md)
