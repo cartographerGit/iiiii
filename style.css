@@ -5,3 +5,8 @@
        url("css/fonts/some-font.otf") format("opentype"),
        url("css/fonts/some-font.svg#filename") format("svg");
 }
+h1 {
+  font-family: 'Some font', Arial, sans-serif;
+  font-weight:normal;
+  font-style:normal;
+}
