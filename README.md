@@ -1,8 +1,10 @@
 <h1>ggggggg</h1> 
     
 ## ddddd
-![fff](https://pressbooks.openeducationalberta.ca/app/uploads/sites/3/2018/08/0500Pronormoblast1-Gloria-Kwon.jpg =250x)
+![fff](https://pressbooks.openeducationalberta.ca/app/uploads/sites/3/2018/08/0500Pronormoblast1-Gloria-Kwon.jpg)
 _источник_
+
+<img src="[drawing.jpg](https://pressbooks.openeducationalberta.ca/app/uploads/sites/3/2018/08/0500Pronormoblast1-Gloria-Kwon.jpg)" alt="drawing" width="200"/>
 
 ##
 <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="100"/>https://pressbooks.openeducationalberta.ca/app/uploads/sites/3/2018/08/0500Pronormoblast1-Gloria-Kwon.jpg
