@@ -1,8 +1,8 @@
 h1 {
-  font-family: '', , sans-serif;
+  font-family: 'Some font', Arial, sans-serif;
   font-weight:normal;
   font-style:normal;
-} vvvv
+}
 
     
 ## ddddd
