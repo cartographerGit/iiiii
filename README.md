@@ -6,5 +6,5 @@
 _источник_
 
 ##
-![hhh](./f.png)
+![(./f.png](./f.png)
 [dd](README-ch1.md)
