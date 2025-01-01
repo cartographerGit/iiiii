@@ -10,5 +10,5 @@ _источник_
 
 Roses are <span style="color:red; font-family:Curlz MT; font-size:4em;">red.</span>
 
-<br /> <span style="font-family: "Caxton Std", serif; font-weight: 800; font-size: 16px;font-style: italic">800 ExtraBold italic hamburgefonstiv</span>
+<br /> <span style="font-family: Caxton Std, serif; font-weight: 800; font-size: 16px;font-style: italic">800 ExtraBold italic hamburgefonstiv</span>
 
