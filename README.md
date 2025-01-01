@@ -25,6 +25,10 @@ Roses are <span style="color:red; font-family:Curlz MT; font-size:4em;">red.</sp
 | ----------- | ----------- |
 | <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="100"/>     | <img src="https://pressbooks.openeducationalberta.ca/app/uploads/sites/3/2018/08/0500Pronormoblast1-Gloria-Kwon.jpg" alt="drawing" width="200"/>      |
 
+| Note
+| ffffff
+| ffffffff
+
 - [x] Write the press release
 - [ ] ff
 - [ ] ff
