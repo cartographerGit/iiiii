@@ -1,6 +1,4 @@
-        <div class="container">
-        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
-      </div>
+<div class="container"><h1>Hi there, my name is Nikola <div class="hi">👋</div></h1></div>
     
     
 ## ddddd
