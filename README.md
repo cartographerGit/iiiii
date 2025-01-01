@@ -1,3 +1,7 @@
+<style>
+td, th {
+   border: none!important;
+}
 <h1>ggggggg</h1> 
     
 ## ddddd
@@ -16,7 +20,7 @@ Roses are <span style="color:red; font-family:Curlz MT; font-size:4em;">red.</sp
 
 # Title <br/> byline
 
-<style> table { border-collapse: collapse; } table, th, td { border: none; } blockquote { border-left: none; padding-left: 10px; } </style>
+
 
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -33,3 +37,4 @@ Roses are <span style="color:red; font-family:Curlz MT; font-size:4em;">red.</sp
 - [ ] ff
 - [ ] ff
 - [ ] fff
+</style>
