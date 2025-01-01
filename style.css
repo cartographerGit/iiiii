@@ -1,12 +1,7 @@
-@font-face {
-  font-family: "Some font";
-  src: url("css/fonts/some-font.eot");
-  src: url("css/fonts/some-font.woff") format("woff"),
-       url("css/fonts/some-font.otf") format("opentype"),
-       url("css/fonts/some-font.svg#filename") format("svg");
-}
+@import url(//fonts.googleapis.com/css?family=Hind:300,500)
+
 h1 {
-  font-family: 'Some font', Comic Sans MS, sans-serif;
+  font-family: 'Hind', Hind, sans-serif;
   font-weight:normal;
   font-style:normal;
 }
