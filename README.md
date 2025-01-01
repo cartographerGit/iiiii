@@ -20,3 +20,13 @@ Roses are <span style="color:red; font-family:Curlz MT; font-size:4em;">red.</sp
     <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="100"/> 
     <p></p>
 <section>
+{{< columns >}}
+
+  Pariatur voluptate ea eiusmod eiusmod. Cillum culpa anim ad incididunt.
+
+{{< column >}}
+
+  ![A picture of clouds and sky](./f.jpg)
+  Adipisicing et culpa cillum exercitation in id dolor. Ut consectetur fugiat...
+
+{{< endcolumns >}}
