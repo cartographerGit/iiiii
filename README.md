@@ -1,7 +1,7 @@
 <h1>ggggggg</h1> 
     
 ## ddddd
-![fff](https://pressbooks.openeducationalberta.ca/app/uploads/sites/3/2018/08/0500Pronormoblast1-Gloria-Kwon.jpg)
+![fff](https://pressbooks.openeducationalberta.ca/app/uploads/sites/3/2018/08/0500Pronormoblast1-Gloria-Kwon.jpg =250x)
 _источник_
 
 ##
